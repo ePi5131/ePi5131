@@ -1,4 +1,13 @@
-### Hi there 👋
+#### やる
+- 画像処理
+- 設計
+- モンキーパッチ
+
+#### 書ける
+- C++
+- Lua
+- C#
+- x86
 
 <!--
 **ePi5131/ePi5131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
